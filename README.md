@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rami!
 
-<!--
-**RootCipher-cell/RootCipher-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 1st-year Business Intelligence student focused on building a strong foundation in software development and data analysis.
 
-Here are some ideas to get you started:
+## 📚 Current Focus
+- **Programming**: C# (.NET), Algorithms & Data Structures
+- **Mathematics**: Calculus, Statistics & Probability
+- **Tools**: Visual Studio Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+Building a portfolio of practical, console-based, and eventually GUI applications to demonstrate my problem-solving skills.
+
+---
+*This profile will be updated regularly as I complete new projects and exercises.*
