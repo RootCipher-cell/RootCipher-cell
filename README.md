@@ -3,7 +3,7 @@
 I am a 1st-year Business Intelligence student focused on building a strong foundation in software development and data analysis.
 
 ## 📚 Current Focus
-- **Programming**: C# (.NET), Algorithms & Data Structures
+- **Programming**: C, C# (.NET), Algorithms & Data Structures
 - **Mathematics**: Calculus, Statistics & Probability
 - **Tools**: Visual Studio Code, Git, GitHub
 
